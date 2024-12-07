@@ -1,2 +1,2 @@
-# password-generator
-Gerador de senhas seguras com personalização de critérios.
+git clone <URL_DO_REPOSITORIO>
+cd password-generator
